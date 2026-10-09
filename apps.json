@@ -4,13 +4,13 @@ json
   "identifier": "com.myname.source",
   "apps": [
     {
-      "name": "Your App Name",
-      "bundleIdentifier": "com.developer.app",
-      "developerName": "Independent",
-      "version": "1.0",
+      "name": "Mangayomi",
+      "bundleIdentifier": "com.cnyari.mangayomi",
+      "developerName": "cnyari",
+      "version": "0.9.8",
       "versionDate": "2026-10-09",
-      "downloadURL": "https://github.com/sfmmnvhy84-bot/Mangayomi/releases/download/V0.98/Mangayomi-v0.9.8-ios.ipa",
-      "localizedDescription": "My sideloaded application."
+      "downloadURL": "https://github.com",
+      "localizedDescription": "An app for reading manga and novel from a variety of sources."
     }
   ]
 }
