@@ -1,0 +1,16 @@
+json
+{
+  "name": "My Personal Store",
+  "identifier": "com.myname.source",
+  "apps": [
+    {
+      "name": "Your App Name",
+      "bundleIdentifier": "com.developer.app",
+      "developerName": "Independent",
+      "version": "1.0",
+      "versionDate": "2026-10-09",
+      "downloadURL": "PASTE_YOUR_RELEASE_DOWNLOAD_LINK_HERE",
+      "localizedDescription": "My sideloaded application."
+    }
+  ]
+}
